@@ -1,26 +1,40 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Container, Grid, Link, Stack, Typography } from "@mui/joy"
+import FilterFields from "components/FilterFields"
+import SampleTable from "components/SampleTable"
+import t from "i18n/common.json"
+import { defaultValues } from "utils"
 
-function App() {
+import { FormProvider, useForm } from "react-hook-form"
+
+export default function App() {
+  const methods = useForm({ defaultValues })
+  const onFilterClear = () => methods.reset(defaultValues)
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Container sx={{ py: 4 }}>
+      <Typography level="h1" py={4}>
+        {t.title}
+      </Typography>
+      <Grid container direction="column" spacing={2}>
+        <FormProvider {...methods}>
+          <Grid xs>
+            <Stack direction="row" justifyContent="space-between">
+              <Typography>{t.filters}</Typography>
+              {methods.formState.isDirty && (
+                <Link onClick={onFilterClear} fontWeight={600}>
+                  {t.clear}
+                </Link>
+              )}
+            </Stack>
+          </Grid>
+          <Grid xs>
+            <FilterFields />
+          </Grid>
+          <Grid xs>
+            <SampleTable />
+          </Grid>
+        </FormProvider>
+      </Grid>
+    </Container>
+  )
 }
-
-export default App;

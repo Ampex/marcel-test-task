@@ -1,0 +1,11 @@
+{
+    "title": "Where is my test tube?",
+    "filters": "Filters",
+    "clear": "Clear all filters",
+    "labels": {
+        "id": "Type ID here…",
+        "location": "Type location here…",
+        "fullName": "Type technician Name here…"
+    },
+    "noResults": "No results found"
+}

@@ -1,0 +1,402 @@
+[
+    {
+        "id": "0011",
+        "buildingName": "Building 2",
+        "location": "Location C",
+        "roomNumber": "Room 2",
+        "shelfNumber": "94",
+        "labTechnicianName": "John Santiago"
+    },
+    {
+        "id": "6062",
+        "buildingName": "Building 3",
+        "location": "Location A",
+        "roomNumber": "Room 3",
+        "shelfNumber": "9",
+        "labTechnicianName": "Jonathan Pierce"
+    },
+    {
+        "id": "1636",
+        "buildingName": "Building 6",
+        "location": "Location B",
+        "roomNumber": "Room 10",
+        "shelfNumber": "72",
+        "labTechnicianName": "Shannon Douglas MD"
+    },
+    {
+        "id": "4106",
+        "buildingName": "Building 3",
+        "location": "Location D",
+        "roomNumber": "Room 1",
+        "shelfNumber": "57",
+        "labTechnicianName": "Erik Day"
+    },
+    {
+        "id": "5592",
+        "buildingName": "Building 5",
+        "location": "Location D",
+        "roomNumber": "Room 2",
+        "shelfNumber": "38",
+        "labTechnicianName": "John Santiago"
+    },
+    {
+        "id": "5085",
+        "buildingName": "Building 4",
+        "location": "Location A",
+        "roomNumber": "Room 10",
+        "shelfNumber": "16",
+        "labTechnicianName": "Martin Young"
+    },
+    {
+        "id": "1103",
+        "buildingName": "Building 6",
+        "location": "Location C",
+        "roomNumber": "Room 3",
+        "shelfNumber": "26",
+        "labTechnicianName": "John Rodriguez"
+    },
+    {
+        "id": "6730",
+        "buildingName": "Building 5",
+        "location": "Location D",
+        "roomNumber": "Room 1",
+        "shelfNumber": "74",
+        "labTechnicianName": "Adam Bright"
+    },
+    {
+        "id": "9597",
+        "buildingName": "Building 3",
+        "location": "Location A",
+        "roomNumber": "Room 8",
+        "shelfNumber": "49",
+        "labTechnicianName": "Heather Russell"
+    },
+    {
+        "id": "0680",
+        "buildingName": "Building 4",
+        "location": "Location B",
+        "roomNumber": "Room 2",
+        "shelfNumber": "8",
+        "labTechnicianName": "Shannon Douglas MD"
+    },
+    {
+        "id": "0805",
+        "buildingName": "Building 2",
+        "location": "Location A",
+        "roomNumber": "Room 2",
+        "shelfNumber": "4",
+        "labTechnicianName": "Lauren Browning"
+    },
+    {
+        "id": "7768",
+        "buildingName": "Building 6",
+        "location": "Location C",
+        "roomNumber": "Room 6",
+        "shelfNumber": "28",
+        "labTechnicianName": "John Rodriguez"
+    },
+    {
+        "id": "3188",
+        "buildingName": "Building 2",
+        "location": "Location C",
+        "roomNumber": "Room 4",
+        "shelfNumber": "61",
+        "labTechnicianName": "Lauren Browning"
+    },
+    {
+        "id": "2704",
+        "buildingName": "Building 5",
+        "location": "Location D",
+        "roomNumber": "Room 7",
+        "shelfNumber": "63",
+        "labTechnicianName": "Lauren Browning"
+    },
+    {
+        "id": "6818",
+        "buildingName": "Building 4",
+        "location": "Location A",
+        "roomNumber": "Room 6",
+        "shelfNumber": "37",
+        "labTechnicianName": "Lauren Browning"
+    },
+    {
+        "id": "7131",
+        "buildingName": "Building 1",
+        "location": "Location C",
+        "roomNumber": "Room 1",
+        "shelfNumber": "89",
+        "labTechnicianName": "John Santiago"
+    },
+    {
+        "id": "7120",
+        "buildingName": "Building 5",
+        "location": "Location D",
+        "roomNumber": "Room 3",
+        "shelfNumber": "14",
+        "labTechnicianName": "Lauren Browning"
+    },
+    {
+        "id": "5700",
+        "buildingName": "Building 1",
+        "location": "Location D",
+        "roomNumber": "Room 7",
+        "shelfNumber": "51",
+        "labTechnicianName": "Erik Day"
+    },
+    {
+        "id": "0458",
+        "buildingName": "Building 1",
+        "location": "Location A",
+        "roomNumber": "Room 6",
+        "shelfNumber": "77",
+        "labTechnicianName": "John Rodriguez"
+    },
+    {
+        "id": "0914",
+        "buildingName": "Building 2",
+        "location": "Location B",
+        "roomNumber": "Room 1",
+        "shelfNumber": "43",
+        "labTechnicianName": "Martin Young"
+    },
+    {
+        "id": "8190",
+        "buildingName": "Building 3",
+        "location": "Location D",
+        "roomNumber": "Room 6",
+        "shelfNumber": "96",
+        "labTechnicianName": "Lauren Browning"
+    },
+    {
+        "id": "3870",
+        "buildingName": "Building 6",
+        "location": "Location A",
+        "roomNumber": "Room 5",
+        "shelfNumber": "22",
+        "labTechnicianName": "Lauren Browning"
+    },
+    {
+        "id": "5728",
+        "buildingName": "Building 3",
+        "location": "Location B",
+        "roomNumber": "Room 10",
+        "shelfNumber": "83",
+        "labTechnicianName": "John Santiago"
+    },
+    {
+        "id": "8307",
+        "buildingName": "Building 3",
+        "location": "Location A",
+        "roomNumber": "Room 4",
+        "shelfNumber": "28",
+        "labTechnicianName": "Erik Day"
+    },
+    {
+        "id": "3527",
+        "buildingName": "Building 4",
+        "location": "Location D",
+        "roomNumber": "Room 10",
+        "shelfNumber": "40",
+        "labTechnicianName": "Lauren Browning"
+    },
+    {
+        "id": "9230",
+        "buildingName": "Building 6",
+        "location": "Location A",
+        "roomNumber": "Room 3",
+        "shelfNumber": "3",
+        "labTechnicianName": "John Rodriguez"
+    },
+    {
+        "id": "0422",
+        "buildingName": "Building 4",
+        "location": "Location A",
+        "roomNumber": "Room 2",
+        "shelfNumber": "5",
+        "labTechnicianName": "Lauren Browning"
+    },
+    {
+        "id": "5845",
+        "buildingName": "Building 2",
+        "location": "Location D",
+        "roomNumber": "Room 1",
+        "shelfNumber": "30",
+        "labTechnicianName": "John Rodriguez"
+    },
+    {
+        "id": "9358",
+        "buildingName": "Building 1",
+        "location": "Location D",
+        "roomNumber": "Room 9",
+        "shelfNumber": "51",
+        "labTechnicianName": "Jessica Thomas"
+    },
+    {
+        "id": "9529",
+        "buildingName": "Building 5",
+        "location": "Location B",
+        "roomNumber": "Room 9",
+        "shelfNumber": "5",
+        "labTechnicianName": "Lauren Browning"
+    },
+    {
+        "id": "3297",
+        "buildingName": "Building 5",
+        "location": "Location C",
+        "roomNumber": "Room 5",
+        "shelfNumber": "81",
+        "labTechnicianName": "Heather Russell"
+    },
+    {
+        "id": "2462",
+        "buildingName": "Building 4",
+        "location": "Location D",
+        "roomNumber": "Room 2",
+        "shelfNumber": "32",
+        "labTechnicianName": "Martin Young"
+    },
+    {
+        "id": "5248",
+        "buildingName": "Building 4",
+        "location": "Location A",
+        "roomNumber": "Room 8",
+        "shelfNumber": "9",
+        "labTechnicianName": "Adam Bright"
+    },
+    {
+        "id": "7567",
+        "buildingName": "Building 5",
+        "location": "Location B",
+        "roomNumber": "Room 5",
+        "shelfNumber": "7",
+        "labTechnicianName": "Jonathan Pierce"
+    },
+    {
+        "id": "4674",
+        "buildingName": "Building 1",
+        "location": "Location B",
+        "roomNumber": "Room 8",
+        "shelfNumber": "96",
+        "labTechnicianName": "Heather Russell"
+    },
+    {
+        "id": "6024",
+        "buildingName": "Building 5",
+        "location": "Location D",
+        "roomNumber": "Room 9",
+        "shelfNumber": "65",
+        "labTechnicianName": "John Rodriguez"
+    },
+    {
+        "id": "4785",
+        "buildingName": "Building 1",
+        "location": "Location C",
+        "roomNumber": "Room 5",
+        "shelfNumber": "93",
+        "labTechnicianName": "Jessica Thomas"
+    },
+    {
+        "id": "9165",
+        "buildingName": "Building 1",
+        "location": "Location B",
+        "roomNumber": "Room 6",
+        "shelfNumber": "93",
+        "labTechnicianName": "Jessica Thomas"
+    },
+    {
+        "id": "0130",
+        "buildingName": "Building 1",
+        "location": "Location B",
+        "roomNumber": "Room 6",
+        "shelfNumber": "21",
+        "labTechnicianName": "Martin Young"
+    },
+    {
+        "id": "5347",
+        "buildingName": "Building 2",
+        "location": "Location D",
+        "roomNumber": "Room 1",
+        "shelfNumber": "78",
+        "labTechnicianName": "Heather Russell"
+    },
+    {
+        "id": "7040",
+        "buildingName": "Building 1",
+        "location": "Location B",
+        "roomNumber": "Room 4",
+        "shelfNumber": "22",
+        "labTechnicianName": "Lauren Browning"
+    },
+    {
+        "id": "4647",
+        "buildingName": "Building 4",
+        "location": "Location C",
+        "roomNumber": "Room 2",
+        "shelfNumber": "1",
+        "labTechnicianName": "Jessica Thomas"
+    },
+    {
+        "id": "2098",
+        "buildingName": "Building 3",
+        "location": "Location D",
+        "roomNumber": "Room 9",
+        "shelfNumber": "21",
+        "labTechnicianName": "Lauren Browning"
+    },
+    {
+        "id": "1709",
+        "buildingName": "Building 6",
+        "location": "Location C",
+        "roomNumber": "Room 2",
+        "shelfNumber": "78",
+        "labTechnicianName": "Shannon Douglas MD"
+    },
+    {
+        "id": "9298",
+        "buildingName": "Building 5",
+        "location": "Location D",
+        "roomNumber": "Room 4",
+        "shelfNumber": "62",
+        "labTechnicianName": "Jonathan Pierce"
+    },
+    {
+        "id": "3965",
+        "buildingName": "Building 5",
+        "location": "Location C",
+        "roomNumber": "Room 1",
+        "shelfNumber": "56",
+        "labTechnicianName": "Jonathan Pierce"
+    },
+    {
+        "id": "9620",
+        "buildingName": "Building 6",
+        "location": "Location C",
+        "roomNumber": "Room 2",
+        "shelfNumber": "65",
+        "labTechnicianName": "Shannon Douglas MD"
+    },
+    {
+        "id": "1411",
+        "buildingName": "Building 4",
+        "location": "Location D",
+        "roomNumber": "Room 1",
+        "shelfNumber": "27",
+        "labTechnicianName": "Adam Bright"
+    },
+    {
+        "id": "4681",
+        "buildingName": "Building 2",
+        "location": "Location A",
+        "roomNumber": "Room 4",
+        "shelfNumber": "8",
+        "labTechnicianName": "Shannon Douglas MD"
+    },
+    {
+        "id": "2831",
+        "buildingName": "Building 6",
+        "location": "Location B",
+        "roomNumber": "Room 2",
+        "shelfNumber": "16",
+        "labTechnicianName": "Jonathan Pierce"
+    }
+]
