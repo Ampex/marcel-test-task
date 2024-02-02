@@ -11,7 +11,7 @@ This is an application for filtering laboratory samples based on several attribu
 
 In the project directory, you can run:
 
-### yarn
+### `yarn`
 
 Run this to install required dependencies
 
